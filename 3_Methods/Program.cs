@@ -10,7 +10,7 @@ namespace _3_Methods
     {
         static void Main(string[] args)
         {
-            #region 3) Methods - Metotlar
+            #region Methods - Metotlar
             /* 1-Metotlar belirli işlemleri yerine getiren kod bloklarıdır ve sadece class elemanlarının içerisinde tanımlanabilirler.
              * 2-Aynı kodların tekrar tekrar kullanılması gereken durumlarda büyük kolaylık sağlamaktadır. 
              *  -Yani bir işlem birden fazla yerde kullanılıyorsa bunu metot olarak yazıp daha kolay ve kod karmaşası olmadan kullanabiliriz.
