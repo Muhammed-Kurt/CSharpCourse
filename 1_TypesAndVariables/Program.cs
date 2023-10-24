@@ -10,7 +10,7 @@ namespace _1_TypesAndVariables
     {
         static void Main(string[] args)
         {
-            #region 1) Types And Variables - Tipler ve Değişkenler
+            #region Types And Variables - Tipler ve Değişkenler
             /* Tam Sayı Veri Tipleri
              * byte < short < int < long
              * byte: Uzunluğu 1 byte’tır, 0 ile 255 arasında değer alır.
