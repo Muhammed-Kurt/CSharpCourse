@@ -68,7 +68,6 @@ namespace _1_TypesAndVariables
             Console.ReadLine();
             #endregion
 
-
         }
     }
     enum Days
